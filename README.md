@@ -5,12 +5,3 @@
 
 
 ##JavaScript
-
-
-##UX Design
-
-
-##Testing
-
-
-##Performance
