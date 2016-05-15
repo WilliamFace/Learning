@@ -7,6 +7,7 @@
     * `<thead>` - provides structure to the header of table
     * `<th>` - enter table header
     * `colspan='?'` - strict __style__ statement of how many columns you want the table header to span across
+    * `<tbody>` - provides strcuture to table body __[wraps all rows/coloumns]__
 
 ##CSS
 
