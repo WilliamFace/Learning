@@ -14,7 +14,7 @@
 
 ###Syntax
 
-The general format for CSS syntx looks like this:
+The general format for CSS syntax looks like this:
 
 ```css
 selector {
