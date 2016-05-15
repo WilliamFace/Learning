@@ -1,2 +1,4 @@
-# front-end-learning-resources
-A log of all the useful learning resources I find online for HTML, CSS and JavaScript
+# Frontend Learning
+
+This is the repository where I will keep all of the useful learning resources I find online for Frontend and JavaScript.
+
