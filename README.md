@@ -2,7 +2,7 @@
 
 ###Structuring
 
-1. `<div>` - provide strcuture to sections of web page
+1. `<div>` - use to strcuture sections of web page
 2. `<span>` - inline element that should be used to wrap small portions of text, iamges etc.
 3. `<table>` - provides structure to tabular data
     * `<thead>` - provides structure to the header of table
