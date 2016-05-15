@@ -22,5 +22,7 @@ selector {
 }
 ````
 * A __selector__ can be any HTML element, class name or ID
+* A __property__ is any aspect of a selector that you want to change
+* A __value__ is a possible setting for a property
 
 ##JavaScript
