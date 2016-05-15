@@ -21,6 +21,6 @@ selector {
     property: value;
 }
 ````
-* A __selector__ can be any; HTML tag, class name or ID
+* A __selector__ can be any HTML element, class name or ID
 
 ##JavaScript
