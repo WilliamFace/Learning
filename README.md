@@ -14,6 +14,8 @@
 
 ###Syntax
 
+The general format for CSS syntx looks like this:
+
 ```css
 selector {
     property: value;
