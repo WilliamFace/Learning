@@ -26,3 +26,5 @@ selector {
 * A __value__ is a possible setting for a property
 
 ##JavaScript
+
+* [Map, Reduce and Filter](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter) 
