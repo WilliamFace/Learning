@@ -28,3 +28,4 @@ selector {
 ##JavaScript
 
 * [Map, Reduce and Filter](https://danmartensen.svbtle.com/javascripts-map-reduce-and-filter) 
+* Recursion - whena  function calls itself until it doesn't
