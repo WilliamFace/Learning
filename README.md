@@ -4,18 +4,18 @@ Personal currated list of resource for learn Front End Development to tray and l
 
 ![](https://cdn-images-1.medium.com/max/800/1*ZSCCDkj9CPKMxqjhmkUibw.gif)
 
-##HTML
+**HTML**
 
-##CSS
+**CSS**
 
   * [Why SASS?](http://alistapart.com/article/why-sass)
 
-##JavaScript
+**JavaScript**
 
-##Git and workflow
+**Git and workflow**
 
   * `http-server` - Git command for running projects locally
 
-##Build tools
+**Build tools**
 
-##Frameworks
+**Frameworks**
