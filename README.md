@@ -18,4 +18,6 @@ Personal currated list of resource for learn Front End Development to tray and l
 
 **Build tools**
 
+  * [Webpack Tutorial for Beginners - The Net Ninja](https://www.youtube.com/watch?list=PL4cUxeGkcC9iTQ3J5oa6orDIMQKKxl8dC&v=ytRnPV0kRN0)
+
 **Frameworks**
