@@ -15,6 +15,9 @@ Personal currated list of resource for learn Front End Development to tray and l
 **Git and workflow**
 
   * `http-server` - Git command for running projects locally
+  * `mkdir` - Git command for making a new folder directory
+  * `touch` - Git command for making a new file
+  * `mv filename /directory` - Git command for moving a file
 
 **Build tools**
 
